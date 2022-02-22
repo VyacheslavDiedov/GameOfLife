@@ -81,8 +81,6 @@ namespace GameOfLife
         private void ButtonClear_Click(object sender, RoutedEventArgs e)
         {
             mainGrid.Clear();
-        }
-
-        
+        } 
     }
 }
